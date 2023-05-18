@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CatImages</string>
+    <string name="info_page">Info Page</string>
+    <string name="update_button_description">Reload</string>
+    <string name="description_button_description">Description</string>
+    <string name="todo">TODO</string>
+    <string name="reload">Reload</string>
+    <string name="description">description</string>
+</resources>
